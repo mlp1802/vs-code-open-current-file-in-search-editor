@@ -1,5 +1,5 @@
 {
-  "name": "open-in-search-editor",
+  "name": "open-current-file-in-search-editor",
   "displayName": "Open current file in search editor",
   "description": "Search only in the current file, and go directly to search editor (kind of like emacs-helm)",
   "version": "0.0.1",
