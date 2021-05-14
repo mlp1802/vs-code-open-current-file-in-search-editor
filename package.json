@@ -9,9 +9,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/shibayu36/vscode-search-in-current-file"
+    "url": "https://github.com/mlp1802/vs-code-open-current-file-in-search-editor"
   },
-  "homepage": "https://github.com/shibayu36/vscode-search-in-current-file",
+  "homepage": "https://github.com/mlp1802/vs-code-open-current-file-in-search-editor",
   "categories": [
     "Other"
   ],
